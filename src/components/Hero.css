@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5rem;
+}
+.head{
+    color:rgb(74, 48, 14);
+}
+.pera{
+    padding: 10px;
+    color: rgb(57, 49, 49);
+}
+.heroImg{
+    width:100%;
+    padding: 10px;
+     margin: auto;
+     border-radius: 20px;
+}
